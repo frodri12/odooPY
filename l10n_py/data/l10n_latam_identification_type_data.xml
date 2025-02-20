@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<odoo>
+    <data>
+        <record model='l10n_latam.identification.type' id='it_ruc'>
+            <field name='name'>RUC</field>
+            <field name='description'>Unique Tax Identification Code</field>
+            <field name='country_id' ref='base.py'/>
+            <field name='is_vat' eval='False'/>
+            <field name='l10n_py_dnit_code'>0</field>
+            <field name='sequence'>10</field>
+        </record>
+        <record model='l10n_latam.identification.type' id='it_ci'>
+            <field name='name'>CI</field>
+            <field name='description'>Paraguayan ID Card</field>
+            <field name='country_id' ref='base.py'/>
+            <field name='l10n_py_dnit_code'>1</field>
+            <field name='sequence'>20</field>
+        </record>
+        <record model='l10n_latam.identification.type' id='l10n_latam_base.it_pass'>
+            <field name='l10n_py_dnit_code'>2</field>
+            <field name='sequence'>25</field>
+        </record>
+        <record model='l10n_latam.identification.type' id='l10n_latam_base.it_fid'>
+            <field name='l10n_py_dnit_code'>3</field>
+        </record>
+        <record model='l10n_latam.identification.type' id='it_cr'>
+            <field name='name'>Tarjeta Residencia</field>
+            <field name='description'>Residence Card</field>
+            <field name='country_id' ref='base.py'/>
+            <field name='l10n_py_dnit_code'>4</field>
+            <field name='sequence'>30</field>
+        </record>
+        <record model='l10n_latam.identification.type' id='it_nn'>
+            <field name='name'>Innominado</field>
+            <field name='description'>Nameless</field>
+            <field name='country_id' ref='base.py'/>
+            <field name='l10n_py_dnit_code'>5</field>
+            <field name='sequence'>40</field>
+        </record>
+        <record model='l10n_latam.identification.type' id='it_dc'>
+            <field name='name'>Tarjeta Diplomática</field>
+            <field name='description'>Diplomatic Card Tax Exemption</field>
+            <field name='country_id' ref='base.py'/>
+            <field name='l10n_py_dnit_code'>6</field>
+            <field name='sequence'>50</field>
+        </record>
+        <record model='l10n_latam.identification.type' id='it_xx'>
+            <field name='name'>Otro</field>
+            <field name='description'>Other</field>
+            <field name='country_id' ref='base.py'/>
+            <field name='l10n_py_dnit_code'>9</field>
+            <field name='sequence'>60</field>
+        </record>
+    </data>
+
+    <data >
+        <record model='l10n_latam.identification.type' id='l10n_latam_base.it_vat'>
+            <field name='active' eval='False'/>
+        </record>
+         <record model='l10n_latam.identification.type' id='l10n_latam_base.it_fid'>
+            <field name='country_id' eval='185'/>
+        </record>
+   </data>
+
+<!--
+SELECT * FROM public.ir_model_data
+where model = 'l10n_latam.identification.type'
+ORDER BY id ASC;
+
+SELECT * FROM public.l10n_latam_identification_type
+ORDER BY id ASC ;
+-->
+</odoo>

@@ -1,0 +1,1593 @@
+<?xml version="1.0" encoding="utf-8"?>
+<odoo>
+    <record id="city_py_2760" model="l10n_py_city">
+        <field name="code">2760</field>
+        <field name="name">CNEL. MARTINEZ</field>
+        <field name="country_id" ref="base.py"/>
+        <field name="district_id" ref="district_py_50"/>
+    </record>
+    <record id="city_py_2761" model="l10n_py_city">
+        <field name="code">2761</field>
+        <field name="name">ARECO</field>
+        <field name="country_id" ref="base.py"/>
+        <field name="district_id" ref="district_py_50"/>
+    </record>
+    <record id="city_py_2762" model="l10n_py_city">
+        <field name="code">2762</field>
+        <field name="name">ARROYITO</field>
+        <field name="country_id" ref="base.py"/>
+        <field name="district_id" ref="district_py_50"/>
+    </record>
+    <record id="city_py_2763" model="l10n_py_city">
+        <field name="code">2763</field>
+        <field name="name">CAPELLAN CARDOZO</field>
+        <field name="country_id" ref="base.py"/>
+        <field name="district_id" ref="district_py_50"/>
+    </record>
+    <record id="city_py_2764" model="l10n_py_city">
+        <field name="code">2764</field>
+        <field name="name">CHACRA NORTE</field>
+        <field name="country_id" ref="base.py"/>
+        <field name="district_id" ref="district_py_50"/>
+    </record>
+    <record id="city_py_2765" model="l10n_py_city">
+        <field name="code">2765</field>
+        <field name="name">CHACRA SUR</field>
+        <field name="country_id" ref="base.py"/>
+        <field name="district_id" ref="district_py_50"/>
+    </record>
+    <record id="city_py_2766" model="l10n_py_city">
+        <field name="code">2766</field>
+        <field name="name">CORONEL MARTINEZ</field>
+        <field name="country_id" ref="base.py"/>
+        <field name="district_id" ref="district_py_50"/>
+    </record>
+    <record id="city_py_2767" model="l10n_py_city">
+        <field name="code">2767</field>
+        <field name="name">COSTA - I</field>
+        <field name="country_id" ref="base.py"/>
+        <field name="district_id" ref="district_py_50"/>
+    </record>
+    <record id="city_py_2768" model="l10n_py_city">
+        <field name="code">2768</field>
+        <field name="name">COSTA BARRIOS</field>
+        <field name="country_id" ref="base.py"/>
+        <field name="district_id" ref="district_py_50"/>
+    </record>
+    <record id="city_py_2769" model="l10n_py_city">
+        <field name="code">2769</field>
+        <field name="name">ESTACION COLONIA - I</field>
+        <field name="country_id" ref="base.py"/>
+        <field name="district_id" ref="district_py_50"/>
+    </record>
+    <record id="city_py_2770" model="l10n_py_city">
+        <field name="code">2770</field>
+        <field name="name">ESTANCIA FORTEZA</field>
+        <field name="country_id" ref="base.py"/>
+        <field name="district_id" ref="district_py_50"/>
+    </record>
+    <record id="city_py_2771" model="l10n_py_city">
+        <field name="code">2771</field>
+        <field name="name">ESTANCIA JESUS</field>
+        <field name="country_id" ref="base.py"/>
+        <field name="district_id" ref="district_py_50"/>
+    </record>
+    <record id="city_py_2772" model="l10n_py_city">
+        <field name="code">2772</field>
+        <field name="name">FERREIRAS</field>
+        <field name="country_id" ref="base.py"/>
+        <field name="district_id" ref="district_py_50"/>
+    </record>
+    <record id="city_py_2773" model="l10n_py_city">
+        <field name="code">2773</field>
+        <field name="name">LOMA PINDO</field>
+        <field name="country_id" ref="base.py"/>
+        <field name="district_id" ref="district_py_50"/>
+    </record>
+    <record id="city_py_2774" model="l10n_py_city">
+        <field name="code">2774</field>
+        <field name="name">MONGES JHUGUA</field>
+        <field name="country_id" ref="base.py"/>
+        <field name="district_id" ref="district_py_50"/>
+    </record>
+    <record id="city_py_2775" model="l10n_py_city">
+        <field name="code">2775</field>
+        <field name="name">POTRERO VILLER</field>
+        <field name="country_id" ref="base.py"/>
+        <field name="district_id" ref="district_py_50"/>
+    </record>
+    <record id="city_py_2776" model="l10n_py_city">
+        <field name="code">2776</field>
+        <field name="name">TTE. BOGADO</field>
+        <field name="country_id" ref="base.py"/>
+        <field name="district_id" ref="district_py_50"/>
+    </record>
+    <record id="city_py_6337" model="l10n_py_city">
+        <field name="code">6337</field>
+        <field name="name">AZUC.PARAG.(AZUCARERA PARANA)</field>
+        <field name="country_id" ref="base.py"/>
+        <field name="district_id" ref="district_py_50"/>
+    </record>
+    <record id="city_py_6338" model="l10n_py_city">
+        <field name="code">6338</field>
+        <field name="name">ESTACION FORTALEZA</field>
+        <field name="country_id" ref="base.py"/>
+        <field name="district_id" ref="district_py_50"/>
+    </record>
+    <record id="city_py_6339" model="l10n_py_city">
+        <field name="code">6339</field>
+        <field name="name">MONGES PASO</field>
+        <field name="country_id" ref="base.py"/>
+        <field name="district_id" ref="district_py_50"/>
+    </record>
+    <record id="city_py_2777" model="l10n_py_city">
+        <field name="code">2777</field>
+        <field name="name">JOSE FASSARDI</field>
+        <field name="country_id" ref="base.py"/>
+        <field name="district_id" ref="district_py_51"/>
+    </record>
+    <record id="city_py_2778" model="l10n_py_city">
+        <field name="code">2778</field>
+        <field name="name">1RO. DE MARZO</field>
+        <field name="country_id" ref="base.py"/>
+        <field name="district_id" ref="district_py_51"/>
+    </record>
+    <record id="city_py_2779" model="l10n_py_city">
+        <field name="code">2779</field>
+        <field name="name">CAGUARE-I</field>
+        <field name="country_id" ref="base.py"/>
+        <field name="district_id" ref="district_py_51"/>
+    </record>
+    <record id="city_py_2780" model="l10n_py_city">
+        <field name="code">2780</field>
+        <field name="name">CAÑADA TAPY-I</field>
+        <field name="country_id" ref="base.py"/>
+        <field name="district_id" ref="district_py_51"/>
+    </record>
+    <record id="city_py_2781" model="l10n_py_city">
+        <field name="code">2781</field>
+        <field name="name">FASSARDI</field>
+        <field name="country_id" ref="base.py"/>
+        <field name="district_id" ref="district_py_51"/>
+    </record>
+    <record id="city_py_2782" model="l10n_py_city">
+        <field name="code">2782</field>
+        <field name="name">KILOMETRO 13</field>
+        <field name="country_id" ref="base.py"/>
+        <field name="district_id" ref="district_py_51"/>
+    </record>
+    <record id="city_py_2783" model="l10n_py_city">
+        <field name="code">2783</field>
+        <field name="name">KILOMETRO 3</field>
+        <field name="country_id" ref="base.py"/>
+        <field name="district_id" ref="district_py_51"/>
+    </record>
+    <record id="city_py_2784" model="l10n_py_city">
+        <field name="code">2784</field>
+        <field name="name">KILOMETRO 31</field>
+        <field name="country_id" ref="base.py"/>
+        <field name="district_id" ref="district_py_51"/>
+    </record>
+    <record id="city_py_2785" model="l10n_py_city">
+        <field name="code">2785</field>
+        <field name="name">KILOMETRO 35</field>
+        <field name="country_id" ref="base.py"/>
+        <field name="district_id" ref="district_py_51"/>
+    </record>
+    <record id="city_py_2786" model="l10n_py_city">
+        <field name="code">2786</field>
+        <field name="name">KILOMETRO 36</field>
+        <field name="country_id" ref="base.py"/>
+        <field name="district_id" ref="district_py_51"/>
+    </record>
+    <record id="city_py_2787" model="l10n_py_city">
+        <field name="code">2787</field>
+        <field name="name">PALMITO</field>
+        <field name="country_id" ref="base.py"/>
+        <field name="district_id" ref="district_py_51"/>
+    </record>
+    <record id="city_py_2788" model="l10n_py_city">
+        <field name="code">2788</field>
+        <field name="name">SAN AGUSTIN</field>
+        <field name="country_id" ref="base.py"/>
+        <field name="district_id" ref="district_py_51"/>
+    </record>
+    <record id="city_py_2789" model="l10n_py_city">
+        <field name="code">2789</field>
+        <field name="name">SAN ANTONIO</field>
+        <field name="country_id" ref="base.py"/>
+        <field name="district_id" ref="district_py_51"/>
+    </record>
+    <record id="city_py_2790" model="l10n_py_city">
+        <field name="code">2790</field>
+        <field name="name">SAN ROQUE</field>
+        <field name="country_id" ref="base.py"/>
+        <field name="district_id" ref="district_py_51"/>
+    </record>
+    <record id="city_py_2791" model="l10n_py_city">
+        <field name="code">2791</field>
+        <field name="name">SANTA ANA</field>
+        <field name="country_id" ref="base.py"/>
+        <field name="district_id" ref="district_py_51"/>
+    </record>
+    <record id="city_py_2792" model="l10n_py_city">
+        <field name="code">2792</field>
+        <field name="name">SANTA ROSA</field>
+        <field name="country_id" ref="base.py"/>
+        <field name="district_id" ref="district_py_51"/>
+    </record>
+    <record id="city_py_2793" model="l10n_py_city">
+        <field name="code">2793</field>
+        <field name="name">TAJHY-I</field>
+        <field name="country_id" ref="base.py"/>
+        <field name="district_id" ref="district_py_51"/>
+    </record>
+    <record id="city_py_2794" model="l10n_py_city">
+        <field name="code">2794</field>
+        <field name="name">ÑU PUAJHU - MI</field>
+        <field name="country_id" ref="base.py"/>
+        <field name="district_id" ref="district_py_51"/>
+    </record>
+    <record id="city_py_6340" model="l10n_py_city">
+        <field name="code">6340</field>
+        <field name="name">AMAMBAY</field>
+        <field name="country_id" ref="base.py"/>
+        <field name="district_id" ref="district_py_51"/>
+    </record>
+    <record id="city_py_6341" model="l10n_py_city">
+        <field name="code">6341</field>
+        <field name="name">KILOMETRO 17</field>
+        <field name="country_id" ref="base.py"/>
+        <field name="district_id" ref="district_py_51"/>
+    </record>
+    <record id="city_py_6342" model="l10n_py_city">
+        <field name="code">6342</field>
+        <field name="name">LOTE-I</field>
+        <field name="country_id" ref="base.py"/>
+        <field name="district_id" ref="district_py_51"/>
+    </record>
+    <record id="city_py_6343" model="l10n_py_city">
+        <field name="code">6343</field>
+        <field name="name">SAN PABLO</field>
+        <field name="country_id" ref="base.py"/>
+        <field name="district_id" ref="district_py_51"/>
+    </record>
+    <record id="city_py_6344" model="l10n_py_city">
+        <field name="code">6344</field>
+        <field name="name">ÑU PUAJHU</field>
+        <field name="country_id" ref="base.py"/>
+        <field name="district_id" ref="district_py_51"/>
+    </record>
+    <record id="city_py_2795" model="l10n_py_city">
+        <field name="code">2795</field>
+        <field name="name">FELIX PEREZ CARDOZO</field>
+        <field name="country_id" ref="base.py"/>
+        <field name="district_id" ref="district_py_52"/>
+    </record>
+    <record id="city_py_2796" model="l10n_py_city">
+        <field name="code">2796</field>
+        <field name="name">AQUINO COSTA</field>
+        <field name="country_id" ref="base.py"/>
+        <field name="district_id" ref="district_py_52"/>
+    </record>
+    <record id="city_py_2797" model="l10n_py_city">
+        <field name="code">2797</field>
+        <field name="name">BOMBILLA</field>
+        <field name="country_id" ref="base.py"/>
+        <field name="district_id" ref="district_py_52"/>
+    </record>
+    <record id="city_py_2798" model="l10n_py_city">
+        <field name="code">2798</field>
+        <field name="name">CERRITO</field>
+        <field name="country_id" ref="base.py"/>
+        <field name="district_id" ref="district_py_52"/>
+    </record>
+    <record id="city_py_2799" model="l10n_py_city">
+        <field name="code">2799</field>
+        <field name="name">COCUERE GUAZU</field>
+        <field name="country_id" ref="base.py"/>
+        <field name="district_id" ref="district_py_52"/>
+    </record>
+    <record id="city_py_2800" model="l10n_py_city">
+        <field name="code">2800</field>
+        <field name="name">COSTA MERCADO</field>
+        <field name="country_id" ref="base.py"/>
+        <field name="district_id" ref="district_py_52"/>
+    </record>
+    <record id="city_py_2801" model="l10n_py_city">
+        <field name="code">2801</field>
+        <field name="name">CUNDY</field>
+        <field name="country_id" ref="base.py"/>
+        <field name="district_id" ref="district_py_52"/>
+    </record>
+    <record id="city_py_2802" model="l10n_py_city">
+        <field name="code">2802</field>
+        <field name="name">ESTACION COSTA</field>
+        <field name="country_id" ref="base.py"/>
+        <field name="district_id" ref="district_py_52"/>
+    </record>
+    <record id="city_py_2803" model="l10n_py_city">
+        <field name="code">2803</field>
+        <field name="name">FELIX PEREZ CARDOZO</field>
+        <field name="country_id" ref="base.py"/>
+        <field name="district_id" ref="district_py_52"/>
+    </record>
+    <record id="city_py_2804" model="l10n_py_city">
+        <field name="code">2804</field>
+        <field name="name">JHUGUA</field>
+        <field name="country_id" ref="base.py"/>
+        <field name="district_id" ref="district_py_52"/>
+    </record>
+    <record id="city_py_2805" model="l10n_py_city">
+        <field name="code">2805</field>
+        <field name="name">POTRERO BENITEZ</field>
+        <field name="country_id" ref="base.py"/>
+        <field name="district_id" ref="district_py_52"/>
+    </record>
+    <record id="city_py_2806" model="l10n_py_city">
+        <field name="code">2806</field>
+        <field name="name">POTRERO MELGAREJO</field>
+        <field name="country_id" ref="base.py"/>
+        <field name="district_id" ref="district_py_52"/>
+    </record>
+    <record id="city_py_2807" model="l10n_py_city">
+        <field name="code">2807</field>
+        <field name="name">RANCHO SAN ANTONIO</field>
+        <field name="country_id" ref="base.py"/>
+        <field name="district_id" ref="district_py_52"/>
+    </record>
+    <record id="city_py_2808" model="l10n_py_city">
+        <field name="code">2808</field>
+        <field name="name">TABAI</field>
+        <field name="country_id" ref="base.py"/>
+        <field name="district_id" ref="district_py_52"/>
+    </record>
+    <record id="city_py_2809" model="l10n_py_city">
+        <field name="code">2809</field>
+        <field name="name">TORO</field>
+        <field name="country_id" ref="base.py"/>
+        <field name="district_id" ref="district_py_52"/>
+    </record>
+    <record id="city_py_6345" model="l10n_py_city">
+        <field name="code">6345</field>
+        <field name="name">CAPILLA COSTA</field>
+        <field name="country_id" ref="base.py"/>
+        <field name="district_id" ref="district_py_52"/>
+    </record>
+    <record id="city_py_2810" model="l10n_py_city">
+        <field name="code">2810</field>
+        <field name="name">MAURICIO JOSE TROCHE</field>
+        <field name="country_id" ref="base.py"/>
+        <field name="district_id" ref="district_py_53"/>
+    </record>
+    <record id="city_py_2811" model="l10n_py_city">
+        <field name="code">2811</field>
+        <field name="name">C. FASSARDI</field>
+        <field name="country_id" ref="base.py"/>
+        <field name="district_id" ref="district_py_53"/>
+    </record>
+    <record id="city_py_2812" model="l10n_py_city">
+        <field name="code">2812</field>
+        <field name="name">CERRO PUNTA</field>
+        <field name="country_id" ref="base.py"/>
+        <field name="district_id" ref="district_py_53"/>
+    </record>
+    <record id="city_py_2813" model="l10n_py_city">
+        <field name="code">2813</field>
+        <field name="name">CIERVO CUA</field>
+        <field name="country_id" ref="base.py"/>
+        <field name="district_id" ref="district_py_53"/>
+    </record>
+    <record id="city_py_2814" model="l10n_py_city">
+        <field name="code">2814</field>
+        <field name="name">COLEGIO COOPERATIVA</field>
+        <field name="country_id" ref="base.py"/>
+        <field name="district_id" ref="district_py_53"/>
+    </record>
+    <record id="city_py_2815" model="l10n_py_city">
+        <field name="code">2815</field>
+        <field name="name">CORA GUAZU-1RA-2DA. CALLES</field>
+        <field name="country_id" ref="base.py"/>
+        <field name="district_id" ref="district_py_53"/>
+    </record>
+    <record id="city_py_2816" model="l10n_py_city">
+        <field name="code">2816</field>
+        <field name="name">COSTA CABALLERO</field>
+        <field name="country_id" ref="base.py"/>
+        <field name="district_id" ref="district_py_53"/>
+    </record>
+    <record id="city_py_2817" model="l10n_py_city">
+        <field name="code">2817</field>
+        <field name="name">COSTA PUCU</field>
+        <field name="country_id" ref="base.py"/>
+        <field name="district_id" ref="district_py_53"/>
+    </record>
+    <record id="city_py_2818" model="l10n_py_city">
+        <field name="code">2818</field>
+        <field name="name">ITACURUBI</field>
+        <field name="country_id" ref="base.py"/>
+        <field name="district_id" ref="district_py_53"/>
+    </record>
+    <record id="city_py_2819" model="l10n_py_city">
+        <field name="code">2819</field>
+        <field name="name">MAURICIO JOSE TROCHE</field>
+        <field name="country_id" ref="base.py"/>
+        <field name="district_id" ref="district_py_53"/>
+    </record>
+    <record id="city_py_2820" model="l10n_py_city">
+        <field name="code">2820</field>
+        <field name="name">SAN SALVADOR ( BALANZA 1 )</field>
+        <field name="country_id" ref="base.py"/>
+        <field name="district_id" ref="district_py_53"/>
+    </record>
+    <record id="city_py_2821" model="l10n_py_city">
+        <field name="code">2821</field>
+        <field name="name">ITAPE</field>
+        <field name="country_id" ref="base.py"/>
+        <field name="district_id" ref="district_py_54"/>
+    </record>
+    <record id="city_py_2822" model="l10n_py_city">
+        <field name="code">2822</field>
+        <field name="name">ESTACION DEMATTEI</field>
+        <field name="country_id" ref="base.py"/>
+        <field name="district_id" ref="district_py_54"/>
+    </record>
+    <record id="city_py_2823" model="l10n_py_city">
+        <field name="code">2823</field>
+        <field name="name">ESTACION ELISA ( MUSSI )</field>
+        <field name="country_id" ref="base.py"/>
+        <field name="district_id" ref="district_py_54"/>
+    </record>
+    <record id="city_py_2824" model="l10n_py_city">
+        <field name="code">2824</field>
+        <field name="name">ESTACION ELISA ( RETIRO )</field>
+        <field name="country_id" ref="base.py"/>
+        <field name="district_id" ref="district_py_54"/>
+    </record>
+    <record id="city_py_2825" model="l10n_py_city">
+        <field name="code">2825</field>
+        <field name="name">ESTACION MBOJHAPHY(SACARRELLO)</field>
+        <field name="country_id" ref="base.py"/>
+        <field name="district_id" ref="district_py_54"/>
+    </record>
+    <record id="city_py_2826" model="l10n_py_city">
+        <field name="code">2826</field>
+        <field name="name">ÑUMI</field>
+        <field name="country_id" ref="base.py"/>
+        <field name="district_id" ref="district_py_54"/>
+    </record>
+    <record id="city_py_2827" model="l10n_py_city">
+        <field name="code">2827</field>
+        <field name="name">ITURBE</field>
+        <field name="country_id" ref="base.py"/>
+        <field name="district_id" ref="district_py_55"/>
+    </record>
+    <record id="city_py_2828" model="l10n_py_city">
+        <field name="code">2828</field>
+        <field name="name">CAAGUY CUPE</field>
+        <field name="country_id" ref="base.py"/>
+        <field name="district_id" ref="district_py_55"/>
+    </record>
+    <record id="city_py_2829" model="l10n_py_city">
+        <field name="code">2829</field>
+        <field name="name">CAPILLA TUYA</field>
+        <field name="country_id" ref="base.py"/>
+        <field name="district_id" ref="district_py_55"/>
+    </record>
+    <record id="city_py_2830" model="l10n_py_city">
+        <field name="code">2830</field>
+        <field name="name">LOMA BARRETO</field>
+        <field name="country_id" ref="base.py"/>
+        <field name="district_id" ref="district_py_55"/>
+    </record>
+    <record id="city_py_2831" model="l10n_py_city">
+        <field name="code">2831</field>
+        <field name="name">POTRERO BENEGAS</field>
+        <field name="country_id" ref="base.py"/>
+        <field name="district_id" ref="district_py_55"/>
+    </record>
+    <record id="city_py_2832" model="l10n_py_city">
+        <field name="code">2832</field>
+        <field name="name">PUESTO CAAGUY</field>
+        <field name="country_id" ref="base.py"/>
+        <field name="district_id" ref="district_py_55"/>
+    </record>
+    <record id="city_py_2833" model="l10n_py_city">
+        <field name="code">2833</field>
+        <field name="name">TEBICUARY COSTA</field>
+        <field name="country_id" ref="base.py"/>
+        <field name="district_id" ref="district_py_55"/>
+    </record>
+    <record id="city_py_2834" model="l10n_py_city">
+        <field name="code">2834</field>
+        <field name="name">VALLE PYTA</field>
+        <field name="country_id" ref="base.py"/>
+        <field name="district_id" ref="district_py_55"/>
+    </record>
+    <record id="city_py_2835" model="l10n_py_city">
+        <field name="code">2835</field>
+        <field name="name">MBOCAYATY</field>
+        <field name="country_id" ref="base.py"/>
+        <field name="district_id" ref="district_py_56"/>
+    </record>
+    <record id="city_py_2836" model="l10n_py_city">
+        <field name="code">2836</field>
+        <field name="name">CAP. SAMUDIO</field>
+        <field name="country_id" ref="base.py"/>
+        <field name="district_id" ref="district_py_56"/>
+    </record>
+    <record id="city_py_2837" model="l10n_py_city">
+        <field name="code">2837</field>
+        <field name="name">CARANDAY</field>
+        <field name="country_id" ref="base.py"/>
+        <field name="district_id" ref="district_py_56"/>
+    </record>
+    <record id="city_py_2838" model="l10n_py_city">
+        <field name="code">2838</field>
+        <field name="name">CARANDAYTY RUGUA</field>
+        <field name="country_id" ref="base.py"/>
+        <field name="district_id" ref="district_py_56"/>
+    </record>
+    <record id="city_py_2839" model="l10n_py_city">
+        <field name="code">2839</field>
+        <field name="name">COL. NAVILLE (CAPIITINDY)</field>
+        <field name="country_id" ref="base.py"/>
+        <field name="district_id" ref="district_py_56"/>
+    </record>
+    <record id="city_py_2840" model="l10n_py_city">
+        <field name="code">2840</field>
+        <field name="name">COSTA MBOCAYATY</field>
+        <field name="country_id" ref="base.py"/>
+        <field name="district_id" ref="district_py_56"/>
+    </record>
+    <record id="city_py_2841" model="l10n_py_city">
+        <field name="code">2841</field>
+        <field name="name">COSTA PISADERA</field>
+        <field name="country_id" ref="base.py"/>
+        <field name="district_id" ref="district_py_56"/>
+    </record>
+    <record id="city_py_2842" model="l10n_py_city">
+        <field name="code">2842</field>
+        <field name="name">ESTANCIA NAVILLE</field>
+        <field name="country_id" ref="base.py"/>
+        <field name="district_id" ref="district_py_56"/>
+    </record>
+    <record id="city_py_2843" model="l10n_py_city">
+        <field name="code">2843</field>
+        <field name="name">ESTANCIA SAN FELIPE</field>
+        <field name="country_id" ref="base.py"/>
+        <field name="district_id" ref="district_py_56"/>
+    </record>
+    <record id="city_py_2844" model="l10n_py_city">
+        <field name="code">2844</field>
+        <field name="name">LOMA BARRETO</field>
+        <field name="country_id" ref="base.py"/>
+        <field name="district_id" ref="district_py_56"/>
+    </record>
+    <record id="city_py_2845" model="l10n_py_city">
+        <field name="code">2845</field>
+        <field name="name">MBOCAYATY ( MUNICIPIO )</field>
+        <field name="country_id" ref="base.py"/>
+        <field name="district_id" ref="district_py_56"/>
+    </record>
+    <record id="city_py_2846" model="l10n_py_city">
+        <field name="code">2846</field>
+        <field name="name">M. GONDRA</field>
+        <field name="country_id" ref="base.py"/>
+        <field name="district_id" ref="district_py_56"/>
+    </record>
+    <record id="city_py_2847" model="l10n_py_city">
+        <field name="code">2847</field>
+        <field name="name">PIRITY</field>
+        <field name="country_id" ref="base.py"/>
+        <field name="district_id" ref="district_py_56"/>
+    </record>
+    <record id="city_py_2848" model="l10n_py_city">
+        <field name="code">2848</field>
+        <field name="name">PTO. FRANCO</field>
+        <field name="country_id" ref="base.py"/>
+        <field name="district_id" ref="district_py_56"/>
+    </record>
+    <record id="city_py_2849" model="l10n_py_city">
+        <field name="code">2849</field>
+        <field name="name">STA. BARBARA</field>
+        <field name="country_id" ref="base.py"/>
+        <field name="district_id" ref="district_py_56"/>
+    </record>
+    <record id="city_py_2850" model="l10n_py_city">
+        <field name="code">2850</field>
+        <field name="name">TACUARITA</field>
+        <field name="country_id" ref="base.py"/>
+        <field name="district_id" ref="district_py_56"/>
+    </record>
+    <record id="city_py_2851" model="l10n_py_city">
+        <field name="code">2851</field>
+        <field name="name">NATALICIO TALAVERA</field>
+        <field name="country_id" ref="base.py"/>
+        <field name="district_id" ref="district_py_57"/>
+    </record>
+    <record id="city_py_2852" model="l10n_py_city">
+        <field name="code">2852</field>
+        <field name="name">1RA. LINEA BARRERA JHU</field>
+        <field name="country_id" ref="base.py"/>
+        <field name="district_id" ref="district_py_57"/>
+    </record>
+    <record id="city_py_2853" model="l10n_py_city">
+        <field name="code">2853</field>
+        <field name="name">2DA. LINEA</field>
+        <field name="country_id" ref="base.py"/>
+        <field name="district_id" ref="district_py_57"/>
+    </record>
+    <record id="city_py_2854" model="l10n_py_city">
+        <field name="code">2854</field>
+        <field name="name">3RA. LINEA</field>
+        <field name="country_id" ref="base.py"/>
+        <field name="district_id" ref="district_py_57"/>
+    </record>
+    <record id="city_py_2855" model="l10n_py_city">
+        <field name="code">2855</field>
+        <field name="name">ARROYO COSTA</field>
+        <field name="country_id" ref="base.py"/>
+        <field name="district_id" ref="district_py_57"/>
+    </record>
+    <record id="city_py_2856" model="l10n_py_city">
+        <field name="code">2856</field>
+        <field name="name">CARO ISLA</field>
+        <field name="country_id" ref="base.py"/>
+        <field name="district_id" ref="district_py_57"/>
+    </record>
+    <record id="city_py_2857" model="l10n_py_city">
+        <field name="code">2857</field>
+        <field name="name">ISLA</field>
+        <field name="country_id" ref="base.py"/>
+        <field name="district_id" ref="district_py_57"/>
+    </record>
+    <record id="city_py_2858" model="l10n_py_city">
+        <field name="code">2858</field>
+        <field name="name">JHUGUA</field>
+        <field name="country_id" ref="base.py"/>
+        <field name="district_id" ref="district_py_57"/>
+    </record>
+    <record id="city_py_2859" model="l10n_py_city">
+        <field name="code">2859</field>
+        <field name="name">LOTE PUCU</field>
+        <field name="country_id" ref="base.py"/>
+        <field name="district_id" ref="district_py_57"/>
+    </record>
+    <record id="city_py_2860" model="l10n_py_city">
+        <field name="code">2860</field>
+        <field name="name">NATALICIO TALAVERA</field>
+        <field name="country_id" ref="base.py"/>
+        <field name="district_id" ref="district_py_57"/>
+    </record>
+    <record id="city_py_2861" model="l10n_py_city">
+        <field name="code">2861</field>
+        <field name="name">POZO ITA</field>
+        <field name="country_id" ref="base.py"/>
+        <field name="district_id" ref="district_py_57"/>
+    </record>
+    <record id="city_py_2862" model="l10n_py_city">
+        <field name="code">2862</field>
+        <field name="name">POTRERITO</field>
+        <field name="country_id" ref="base.py"/>
+        <field name="district_id" ref="district_py_57"/>
+    </record>
+    <record id="city_py_2863" model="l10n_py_city">
+        <field name="code">2863</field>
+        <field name="name">ZANJA PYTA 4TA. LINEA</field>
+        <field name="country_id" ref="base.py"/>
+        <field name="district_id" ref="district_py_57"/>
+    </record>
+    <record id="city_py_2864" model="l10n_py_city">
+        <field name="code">2864</field>
+        <field name="name">SAN JOSE</field>
+        <field name="country_id" ref="base.py"/>
+        <field name="district_id" ref="district_py_57"/>
+    </record>
+    <record id="city_py_2865" model="l10n_py_city">
+        <field name="code">2865</field>
+        <field name="name">SANTA ROSA</field>
+        <field name="country_id" ref="base.py"/>
+        <field name="district_id" ref="district_py_57"/>
+    </record>
+    <record id="city_py_2866" model="l10n_py_city">
+        <field name="code">2866</field>
+        <field name="name">ÑUMI</field>
+        <field name="country_id" ref="base.py"/>
+        <field name="district_id" ref="district_py_58"/>
+    </record>
+    <record id="city_py_2867" model="l10n_py_city">
+        <field name="code">2867</field>
+        <field name="name">CAAGUY CUPE</field>
+        <field name="country_id" ref="base.py"/>
+        <field name="district_id" ref="district_py_58"/>
+    </record>
+    <record id="city_py_2868" model="l10n_py_city">
+        <field name="code">2868</field>
+        <field name="name">CAPILLA TUYA</field>
+        <field name="country_id" ref="base.py"/>
+        <field name="district_id" ref="district_py_58"/>
+    </record>
+    <record id="city_py_2869" model="l10n_py_city">
+        <field name="code">2869</field>
+        <field name="name">LOMA BARRETO</field>
+        <field name="country_id" ref="base.py"/>
+        <field name="district_id" ref="district_py_58"/>
+    </record>
+    <record id="city_py_2870" model="l10n_py_city">
+        <field name="code">2870</field>
+        <field name="name">POTRERO BENEGAS</field>
+        <field name="country_id" ref="base.py"/>
+        <field name="district_id" ref="district_py_58"/>
+    </record>
+    <record id="city_py_2871" model="l10n_py_city">
+        <field name="code">2871</field>
+        <field name="name">PUESTO CAAGUY</field>
+        <field name="country_id" ref="base.py"/>
+        <field name="district_id" ref="district_py_58"/>
+    </record>
+    <record id="city_py_2872" model="l10n_py_city">
+        <field name="code">2872</field>
+        <field name="name">TEBICUARY COSTA</field>
+        <field name="country_id" ref="base.py"/>
+        <field name="district_id" ref="district_py_58"/>
+    </record>
+    <record id="city_py_2873" model="l10n_py_city">
+        <field name="code">2873</field>
+        <field name="name">VALLE PYTA</field>
+        <field name="country_id" ref="base.py"/>
+        <field name="district_id" ref="district_py_58"/>
+    </record>
+    <record id="city_py_2874" model="l10n_py_city">
+        <field name="code">2874</field>
+        <field name="name">YATAITY ( MUNICIPIO )</field>
+        <field name="country_id" ref="base.py"/>
+        <field name="district_id" ref="district_py_58"/>
+    </record>
+    <record id="city_py_2875" model="l10n_py_city">
+        <field name="code">2875</field>
+        <field name="name">YATAITY</field>
+        <field name="country_id" ref="base.py"/>
+        <field name="district_id" ref="district_py_59"/>
+    </record>
+    <record id="city_py_2876" model="l10n_py_city">
+        <field name="code">2876</field>
+        <field name="name">EST. DEMATEI</field>
+        <field name="country_id" ref="base.py"/>
+        <field name="district_id" ref="district_py_59"/>
+    </record>
+    <record id="city_py_2877" model="l10n_py_city">
+        <field name="code">2877</field>
+        <field name="name">EST. ELISA ( MUSSI )</field>
+        <field name="country_id" ref="base.py"/>
+        <field name="district_id" ref="district_py_59"/>
+    </record>
+    <record id="city_py_2878" model="l10n_py_city">
+        <field name="code">2878</field>
+        <field name="name">EST. ELISA ( RETIRO )</field>
+        <field name="country_id" ref="base.py"/>
+        <field name="district_id" ref="district_py_59"/>
+    </record>
+    <record id="city_py_2879" model="l10n_py_city">
+        <field name="code">2879</field>
+        <field name="name">EST. MBOJHAPY ( SACCARELLO )</field>
+        <field name="country_id" ref="base.py"/>
+        <field name="district_id" ref="district_py_59"/>
+    </record>
+    <record id="city_py_2880" model="l10n_py_city">
+        <field name="code">2880</field>
+        <field name="name">ÑUMI</field>
+        <field name="country_id" ref="base.py"/>
+        <field name="district_id" ref="district_py_59"/>
+    </record>
+    <record id="city_py_2881" model="l10n_py_city">
+        <field name="code">2881</field>
+        <field name="name">DR. BOTREL</field>
+        <field name="country_id" ref="base.py"/>
+        <field name="district_id" ref="district_py_60"/>
+    </record>
+    <record id="city_py_2882" model="l10n_py_city">
+        <field name="code">2882</field>
+        <field name="name">B.GOROSTIAGA</field>
+        <field name="country_id" ref="base.py"/>
+        <field name="district_id" ref="district_py_60"/>
+    </record>
+    <record id="city_py_2883" model="l10n_py_city">
+        <field name="code">2883</field>
+        <field name="name">COL.DR.BOTREL</field>
+        <field name="country_id" ref="base.py"/>
+        <field name="district_id" ref="district_py_60"/>
+    </record>
+    <record id="city_py_2884" model="l10n_py_city">
+        <field name="code">2884</field>
+        <field name="name">TACUAPITY</field>
+        <field name="country_id" ref="base.py"/>
+        <field name="district_id" ref="district_py_60"/>
+    </record>
+    <record id="city_py_2885" model="l10n_py_city">
+        <field name="code">2885</field>
+        <field name="name">ÑUMI</field>
+        <field name="country_id" ref="base.py"/>
+        <field name="district_id" ref="district_py_60"/>
+    </record>
+    <record id="city_py_4595" model="l10n_py_city">
+        <field name="code">4595</field>
+        <field name="name">PASO YOBAY</field>
+        <field name="country_id" ref="base.py"/>
+        <field name="district_id" ref="district_py_225"/>
+    </record>
+    <record id="city_py_6388" model="l10n_py_city">
+        <field name="code">6388</field>
+        <field name="name">BARRERO NARANJA</field>
+        <field name="country_id" ref="base.py"/>
+        <field name="district_id" ref="district_py_246"/>
+    </record>
+    <record id="city_py_6389" model="l10n_py_city">
+        <field name="code">6389</field>
+        <field name="name">CERRO CORA</field>
+        <field name="country_id" ref="base.py"/>
+        <field name="district_id" ref="district_py_246"/>
+    </record>
+    <record id="city_py_6390" model="l10n_py_city">
+        <field name="code">6390</field>
+        <field name="name">CONCEPCION-MI</field>
+        <field name="country_id" ref="base.py"/>
+        <field name="district_id" ref="district_py_246"/>
+    </record>
+    <record id="city_py_6391" model="l10n_py_city">
+        <field name="code">6391</field>
+        <field name="name">EST. ACOSTA</field>
+        <field name="country_id" ref="base.py"/>
+        <field name="district_id" ref="district_py_246"/>
+    </record>
+    <record id="city_py_6392" model="l10n_py_city">
+        <field name="code">6392</field>
+        <field name="name">EST. SAN MIGUEL</field>
+        <field name="country_id" ref="base.py"/>
+        <field name="district_id" ref="district_py_246"/>
+    </record>
+    <record id="city_py_6393" model="l10n_py_city">
+        <field name="code">6393</field>
+        <field name="name">FLORIDA</field>
+        <field name="country_id" ref="base.py"/>
+        <field name="district_id" ref="district_py_246"/>
+    </record>
+    <record id="city_py_6394" model="l10n_py_city">
+        <field name="code">6394</field>
+        <field name="name">PERULERO</field>
+        <field name="country_id" ref="base.py"/>
+        <field name="district_id" ref="district_py_246"/>
+    </record>
+    <record id="city_py_6395" model="l10n_py_city">
+        <field name="code">6395</field>
+        <field name="name">POTRERITO</field>
+        <field name="country_id" ref="base.py"/>
+        <field name="district_id" ref="district_py_246"/>
+    </record>
+    <record id="city_py_6396" model="l10n_py_city">
+        <field name="code">6396</field>
+        <field name="name">STA. ELENA</field>
+        <field name="country_id" ref="base.py"/>
+        <field name="district_id" ref="district_py_246"/>
+    </record>
+    <record id="city_py_6397" model="l10n_py_city">
+        <field name="code">6397</field>
+        <field name="name">SAN LUIS</field>
+        <field name="country_id" ref="base.py"/>
+        <field name="district_id" ref="district_py_246"/>
+    </record>
+    <record id="city_py_6398" model="l10n_py_city">
+        <field name="code">6398</field>
+        <field name="name">STA. ROSA</field>
+        <field name="country_id" ref="base.py"/>
+        <field name="district_id" ref="district_py_246"/>
+    </record>
+    <record id="city_py_6416" model="l10n_py_city">
+        <field name="code">6416</field>
+        <field name="name">CHACRA NORTE</field>
+        <field name="country_id" ref="base.py"/>
+        <field name="district_id" ref="district_py_265"/>
+    </record>
+    <record id="city_py_6417" model="l10n_py_city">
+        <field name="code">6417</field>
+        <field name="name">CHACRA SUR</field>
+        <field name="country_id" ref="base.py"/>
+        <field name="district_id" ref="district_py_265"/>
+    </record>
+    <record id="city_py_6418" model="l10n_py_city">
+        <field name="code">6418</field>
+        <field name="name">AVIACION</field>
+        <field name="country_id" ref="base.py"/>
+        <field name="district_id" ref="district_py_265"/>
+    </record>
+    <record id="city_py_6419" model="l10n_py_city">
+        <field name="code">6419</field>
+        <field name="name">LOMA PINDO</field>
+        <field name="country_id" ref="base.py"/>
+        <field name="district_id" ref="district_py_265"/>
+    </record>
+    <record id="city_py_6420" model="l10n_py_city">
+        <field name="code">6420</field>
+        <field name="name">URBANIZACION</field>
+        <field name="country_id" ref="base.py"/>
+        <field name="district_id" ref="district_py_265"/>
+    </record>
+    <record id="city_py_2886" model="l10n_py_city">
+        <field name="code">2886</field>
+        <field name="name">CNEL. OVIEDO</field>
+        <field name="country_id" ref="base.py"/>
+        <field name="district_id" ref="district_py_61"/>
+    </record>
+    <record id="city_py_2887" model="l10n_py_city">
+        <field name="code">2887</field>
+        <field name="name">12 DE JUNIO 1RA.</field>
+        <field name="country_id" ref="base.py"/>
+        <field name="district_id" ref="district_py_61"/>
+    </record>
+    <record id="city_py_2888" model="l10n_py_city">
+        <field name="code">2888</field>
+        <field name="name">12 DE JUNIO 2DA.</field>
+        <field name="country_id" ref="base.py"/>
+        <field name="district_id" ref="district_py_61"/>
+    </record>
+    <record id="city_py_2889" model="l10n_py_city">
+        <field name="code">2889</field>
+        <field name="name">1RO DE JUNIO</field>
+        <field name="country_id" ref="base.py"/>
+        <field name="district_id" ref="district_py_61"/>
+    </record>
+    <record id="city_py_2890" model="l10n_py_city">
+        <field name="code">2890</field>
+        <field name="name">1RO. DE MARZO</field>
+        <field name="country_id" ref="base.py"/>
+        <field name="district_id" ref="district_py_61"/>
+    </record>
+    <record id="city_py_2891" model="l10n_py_city">
+        <field name="code">2891</field>
+        <field name="name">3 DE MAYO ( CALLE )</field>
+        <field name="country_id" ref="base.py"/>
+        <field name="district_id" ref="district_py_61"/>
+    </record>
+    <record id="city_py_2892" model="l10n_py_city">
+        <field name="code">2892</field>
+        <field name="name">AGUAPETY</field>
+        <field name="country_id" ref="base.py"/>
+        <field name="district_id" ref="district_py_61"/>
+    </record>
+    <record id="city_py_2893" model="l10n_py_city">
+        <field name="code">2893</field>
+        <field name="name">AZUCENA</field>
+        <field name="country_id" ref="base.py"/>
+        <field name="district_id" ref="district_py_61"/>
+    </record>
+    <record id="city_py_2894" model="l10n_py_city">
+        <field name="code">2894</field>
+        <field name="name">B. FATIMA</field>
+        <field name="country_id" ref="base.py"/>
+        <field name="district_id" ref="district_py_61"/>
+    </record>
+    <record id="city_py_2895" model="l10n_py_city">
+        <field name="code">2895</field>
+        <field name="name">BOQUERON</field>
+        <field name="country_id" ref="base.py"/>
+        <field name="district_id" ref="district_py_61"/>
+    </record>
+    <record id="city_py_2896" model="l10n_py_city">
+        <field name="code">2896</field>
+        <field name="name">C. BORDENAVE</field>
+        <field name="country_id" ref="base.py"/>
+        <field name="district_id" ref="district_py_61"/>
+    </record>
+    <record id="city_py_2897" model="l10n_py_city">
+        <field name="code">2897</field>
+        <field name="name">CAAGUY CUPE</field>
+        <field name="country_id" ref="base.py"/>
+        <field name="district_id" ref="district_py_61"/>
+    </record>
+    <record id="city_py_2898" model="l10n_py_city">
+        <field name="code">2898</field>
+        <field name="name">CAITA</field>
+        <field name="country_id" ref="base.py"/>
+        <field name="district_id" ref="district_py_61"/>
+    </record>
+    <record id="city_py_2899" model="l10n_py_city">
+        <field name="code">2899</field>
+        <field name="name">CALLE 1  BLAS GARAY</field>
+        <field name="country_id" ref="base.py"/>
+        <field name="district_id" ref="district_py_61"/>
+    </record>
+    <record id="city_py_2900" model="l10n_py_city">
+        <field name="code">2900</field>
+        <field name="name">CALLE 10 TACUA CORA</field>
+        <field name="country_id" ref="base.py"/>
+        <field name="district_id" ref="district_py_61"/>
+    </record>
+    <record id="city_py_2901" model="l10n_py_city">
+        <field name="code">2901</field>
+        <field name="name">CALLE 12 TAYAO</field>
+        <field name="country_id" ref="base.py"/>
+        <field name="district_id" ref="district_py_61"/>
+    </record>
+    <record id="city_py_2902" model="l10n_py_city">
+        <field name="code">2902</field>
+        <field name="name">CALLE 124 TAYAO</field>
+        <field name="country_id" ref="base.py"/>
+        <field name="district_id" ref="district_py_61"/>
+    </record>
+    <record id="city_py_2903" model="l10n_py_city">
+        <field name="code">2903</field>
+        <field name="name">CALLE 13 TAYAO</field>
+        <field name="country_id" ref="base.py"/>
+        <field name="district_id" ref="district_py_61"/>
+    </record>
+    <record id="city_py_2904" model="l10n_py_city">
+        <field name="code">2904</field>
+        <field name="name">CALLE 14 TAYAO</field>
+        <field name="country_id" ref="base.py"/>
+        <field name="district_id" ref="district_py_61"/>
+    </record>
+    <record id="city_py_2905" model="l10n_py_city">
+        <field name="code">2905</field>
+        <field name="name">CALLE 16 TAYAO</field>
+        <field name="country_id" ref="base.py"/>
+        <field name="district_id" ref="district_py_61"/>
+    </record>
+    <record id="city_py_2906" model="l10n_py_city">
+        <field name="code">2906</field>
+        <field name="name">CALLE 18 TAYAO</field>
+        <field name="country_id" ref="base.py"/>
+        <field name="district_id" ref="district_py_61"/>
+    </record>
+    <record id="city_py_2907" model="l10n_py_city">
+        <field name="code">2907</field>
+        <field name="name">CALLE 2 BLAS GARAY</field>
+        <field name="country_id" ref="base.py"/>
+        <field name="district_id" ref="district_py_61"/>
+    </record>
+    <record id="city_py_2908" model="l10n_py_city">
+        <field name="code">2908</field>
+        <field name="name">CALLE 2 TACUA CORA</field>
+        <field name="country_id" ref="base.py"/>
+        <field name="district_id" ref="district_py_61"/>
+    </record>
+    <record id="city_py_2909" model="l10n_py_city">
+        <field name="code">2909</field>
+        <field name="name">CALLE 20 TAYAO</field>
+        <field name="country_id" ref="base.py"/>
+        <field name="district_id" ref="district_py_61"/>
+    </record>
+    <record id="city_py_2910" model="l10n_py_city">
+        <field name="code">2910</field>
+        <field name="name">CALLE 20 TAYAO ZONA NORTE</field>
+        <field name="country_id" ref="base.py"/>
+        <field name="district_id" ref="district_py_61"/>
+    </record>
+    <record id="city_py_2911" model="l10n_py_city">
+        <field name="code">2911</field>
+        <field name="name">CALLE 22 TAYAO</field>
+        <field name="country_id" ref="base.py"/>
+        <field name="district_id" ref="district_py_61"/>
+    </record>
+    <record id="city_py_2912" model="l10n_py_city">
+        <field name="code">2912</field>
+        <field name="name">CALLE 24 TAYAO</field>
+        <field name="country_id" ref="base.py"/>
+        <field name="district_id" ref="district_py_61"/>
+    </record>
+    <record id="city_py_2913" model="l10n_py_city">
+        <field name="code">2913</field>
+        <field name="name">CALLE 26 TAYAO</field>
+        <field name="country_id" ref="base.py"/>
+        <field name="district_id" ref="district_py_61"/>
+    </record>
+    <record id="city_py_2914" model="l10n_py_city">
+        <field name="code">2914</field>
+        <field name="name">CALLE 3 BLAS GARAY</field>
+        <field name="country_id" ref="base.py"/>
+        <field name="district_id" ref="district_py_61"/>
+    </record>
+    <record id="city_py_2915" model="l10n_py_city">
+        <field name="code">2915</field>
+        <field name="name">CALLE 4 TACUA CORA</field>
+        <field name="country_id" ref="base.py"/>
+        <field name="district_id" ref="district_py_61"/>
+    </record>
+    <record id="city_py_2916" model="l10n_py_city">
+        <field name="code">2916</field>
+        <field name="name">CALLE 6 TACUA CORA</field>
+        <field name="country_id" ref="base.py"/>
+        <field name="district_id" ref="district_py_61"/>
+    </record>
+    <record id="city_py_2917" model="l10n_py_city">
+        <field name="code">2917</field>
+        <field name="name">CALLE 8 TACUA CORA</field>
+        <field name="country_id" ref="base.py"/>
+        <field name="district_id" ref="district_py_61"/>
+    </record>
+    <record id="city_py_2918" model="l10n_py_city">
+        <field name="code">2918</field>
+        <field name="name">CALLE A TACUA CORA</field>
+        <field name="country_id" ref="base.py"/>
+        <field name="district_id" ref="district_py_61"/>
+    </record>
+    <record id="city_py_2919" model="l10n_py_city">
+        <field name="code">2919</field>
+        <field name="name">CALLE ARENA</field>
+        <field name="country_id" ref="base.py"/>
+        <field name="district_id" ref="district_py_61"/>
+    </record>
+    <record id="city_py_2920" model="l10n_py_city">
+        <field name="code">2920</field>
+        <field name="name">CALLE ARROZ</field>
+        <field name="country_id" ref="base.py"/>
+        <field name="district_id" ref="district_py_61"/>
+    </record>
+    <record id="city_py_2921" model="l10n_py_city">
+        <field name="code">2921</field>
+        <field name="name">CALLE FLORICA</field>
+        <field name="country_id" ref="base.py"/>
+        <field name="district_id" ref="district_py_61"/>
+    </record>
+    <record id="city_py_2922" model="l10n_py_city">
+        <field name="code">2922</field>
+        <field name="name">COL. GENARO ROMERO</field>
+        <field name="country_id" ref="base.py"/>
+        <field name="district_id" ref="district_py_61"/>
+    </record>
+    <record id="city_py_2923" model="l10n_py_city">
+        <field name="code">2923</field>
+        <field name="name">CALLE GUAZU</field>
+        <field name="country_id" ref="base.py"/>
+        <field name="district_id" ref="district_py_61"/>
+    </record>
+    <record id="city_py_2924" model="l10n_py_city">
+        <field name="code">2924</field>
+        <field name="name">CALLE ITACURUBI</field>
+        <field name="country_id" ref="base.py"/>
+        <field name="district_id" ref="district_py_61"/>
+    </record>
+    <record id="city_py_2925" model="l10n_py_city">
+        <field name="code">2925</field>
+        <field name="name">CALLE JIMENEZ</field>
+        <field name="country_id" ref="base.py"/>
+        <field name="district_id" ref="district_py_61"/>
+    </record>
+    <record id="city_py_2926" model="l10n_py_city">
+        <field name="code">2926</field>
+        <field name="name">CALLE MOREIRA</field>
+        <field name="country_id" ref="base.py"/>
+        <field name="district_id" ref="district_py_61"/>
+    </record>
+    <record id="city_py_2927" model="l10n_py_city">
+        <field name="code">2927</field>
+        <field name="name">CALLE PYAJHU</field>
+        <field name="country_id" ref="base.py"/>
+        <field name="district_id" ref="district_py_61"/>
+    </record>
+    <record id="city_py_2928" model="l10n_py_city">
+        <field name="code">2928</field>
+        <field name="name">CALLE SAN FRANCISCO</field>
+        <field name="country_id" ref="base.py"/>
+        <field name="district_id" ref="district_py_61"/>
+    </record>
+    <record id="city_py_2929" model="l10n_py_city">
+        <field name="code">2929</field>
+        <field name="name">CANGAI</field>
+        <field name="country_id" ref="base.py"/>
+        <field name="district_id" ref="district_py_61"/>
+    </record>
+    <record id="city_py_2930" model="l10n_py_city">
+        <field name="code">2930</field>
+        <field name="name">CAPILLITA</field>
+        <field name="country_id" ref="base.py"/>
+        <field name="district_id" ref="district_py_61"/>
+    </record>
+    <record id="city_py_2931" model="l10n_py_city">
+        <field name="code">2931</field>
+        <field name="name">CAPITAN ROA</field>
+        <field name="country_id" ref="base.py"/>
+        <field name="district_id" ref="district_py_61"/>
+    </record>
+    <record id="city_py_2932" model="l10n_py_city">
+        <field name="code">2932</field>
+        <field name="name">CARAGUATAY MI</field>
+        <field name="country_id" ref="base.py"/>
+        <field name="district_id" ref="district_py_61"/>
+    </record>
+    <record id="city_py_2933" model="l10n_py_city">
+        <field name="code">2933</field>
+        <field name="name">CARANDAYTY</field>
+        <field name="country_id" ref="base.py"/>
+        <field name="district_id" ref="district_py_61"/>
+    </record>
+    <record id="city_py_2934" model="l10n_py_city">
+        <field name="code">2934</field>
+        <field name="name">CERRITO</field>
+        <field name="country_id" ref="base.py"/>
+        <field name="district_id" ref="district_py_61"/>
+    </record>
+    <record id="city_py_2935" model="l10n_py_city">
+        <field name="code">2935</field>
+        <field name="name">CHASE CUE</field>
+        <field name="country_id" ref="base.py"/>
+        <field name="district_id" ref="district_py_61"/>
+    </record>
+    <record id="city_py_2936" model="l10n_py_city">
+        <field name="code">2936</field>
+        <field name="name">CHIRCA TY</field>
+        <field name="country_id" ref="base.py"/>
+        <field name="district_id" ref="district_py_61"/>
+    </record>
+    <record id="city_py_2937" model="l10n_py_city">
+        <field name="code">2937</field>
+        <field name="name">CNEL. OVIEDO</field>
+        <field name="country_id" ref="base.py"/>
+        <field name="district_id" ref="district_py_61"/>
+    </record>
+    <record id="city_py_2938" model="l10n_py_city">
+        <field name="code">2938</field>
+        <field name="name">COL. SANTA MARIA</field>
+        <field name="country_id" ref="base.py"/>
+        <field name="district_id" ref="district_py_61"/>
+    </record>
+    <record id="city_py_2939" model="l10n_py_city">
+        <field name="code">2939</field>
+        <field name="name">COSTA JHU</field>
+        <field name="country_id" ref="base.py"/>
+        <field name="district_id" ref="district_py_61"/>
+    </record>
+    <record id="city_py_2940" model="l10n_py_city">
+        <field name="code">2940</field>
+        <field name="name">COSTA VARELA</field>
+        <field name="country_id" ref="base.py"/>
+        <field name="district_id" ref="district_py_61"/>
+    </record>
+    <record id="city_py_2941" model="l10n_py_city">
+        <field name="code">2941</field>
+        <field name="name">CUARTO POTRERO</field>
+        <field name="country_id" ref="base.py"/>
+        <field name="district_id" ref="district_py_61"/>
+    </record>
+    <record id="city_py_2942" model="l10n_py_city">
+        <field name="code">2942</field>
+        <field name="name">CURUCAU</field>
+        <field name="country_id" ref="base.py"/>
+        <field name="district_id" ref="district_py_61"/>
+    </record>
+    <record id="city_py_2943" model="l10n_py_city">
+        <field name="code">2943</field>
+        <field name="name">ESPINILLO</field>
+        <field name="country_id" ref="base.py"/>
+        <field name="district_id" ref="district_py_61"/>
+    </record>
+    <record id="city_py_2944" model="l10n_py_city">
+        <field name="code">2944</field>
+        <field name="name">ESTANCIA BALANZA</field>
+        <field name="country_id" ref="base.py"/>
+        <field name="district_id" ref="district_py_61"/>
+    </record>
+    <record id="city_py_2945" model="l10n_py_city">
+        <field name="code">2945</field>
+        <field name="name">ESTANCIA ISLA NEGRA</field>
+        <field name="country_id" ref="base.py"/>
+        <field name="district_id" ref="district_py_61"/>
+    </record>
+    <record id="city_py_2946" model="l10n_py_city">
+        <field name="code">2946</field>
+        <field name="name">ESTANCIA JOSEFINA</field>
+        <field name="country_id" ref="base.py"/>
+        <field name="district_id" ref="district_py_61"/>
+    </record>
+    <record id="city_py_2947" model="l10n_py_city">
+        <field name="code">2947</field>
+        <field name="name">ESTANCIA LOMA</field>
+        <field name="country_id" ref="base.py"/>
+        <field name="district_id" ref="district_py_61"/>
+    </record>
+    <record id="city_py_2948" model="l10n_py_city">
+        <field name="code">2948</field>
+        <field name="name">ESTANCIA ORTIZ</field>
+        <field name="country_id" ref="base.py"/>
+        <field name="district_id" ref="district_py_61"/>
+    </record>
+    <record id="city_py_2949" model="l10n_py_city">
+        <field name="code">2949</field>
+        <field name="name">ESTANCIA PACURI</field>
+        <field name="country_id" ref="base.py"/>
+        <field name="district_id" ref="district_py_61"/>
+    </record>
+    <record id="city_py_2950" model="l10n_py_city">
+        <field name="code">2950</field>
+        <field name="name">ESTANCIA SAMUDIO</field>
+        <field name="country_id" ref="base.py"/>
+        <field name="district_id" ref="district_py_61"/>
+    </record>
+    <record id="city_py_2951" model="l10n_py_city">
+        <field name="code">2951</field>
+        <field name="name">ESTANCIA VEGA</field>
+        <field name="country_id" ref="base.py"/>
+        <field name="district_id" ref="district_py_61"/>
+    </record>
+    <record id="city_py_2952" model="l10n_py_city">
+        <field name="code">2952</field>
+        <field name="name">FRANCO CUE</field>
+        <field name="country_id" ref="base.py"/>
+        <field name="district_id" ref="district_py_61"/>
+    </record>
+    <record id="city_py_2953" model="l10n_py_city">
+        <field name="code">2953</field>
+        <field name="name">JHUGUA GUAZU</field>
+        <field name="country_id" ref="base.py"/>
+        <field name="district_id" ref="district_py_61"/>
+    </record>
+    <record id="city_py_2954" model="l10n_py_city">
+        <field name="code">2954</field>
+        <field name="name">LA BARREREÑA</field>
+        <field name="country_id" ref="base.py"/>
+        <field name="district_id" ref="district_py_61"/>
+    </record>
+    <record id="city_py_2955" model="l10n_py_city">
+        <field name="code">2955</field>
+        <field name="name">LEIVA I</field>
+        <field name="country_id" ref="base.py"/>
+        <field name="district_id" ref="district_py_61"/>
+    </record>
+    <record id="city_py_2956" model="l10n_py_city">
+        <field name="code">2956</field>
+        <field name="name">MBURURU OCA</field>
+        <field name="country_id" ref="base.py"/>
+        <field name="district_id" ref="district_py_61"/>
+    </record>
+    <record id="city_py_2957" model="l10n_py_city">
+        <field name="code">2957</field>
+        <field name="name">OLEGARIO</field>
+        <field name="country_id" ref="base.py"/>
+        <field name="district_id" ref="district_py_61"/>
+    </record>
+    <record id="city_py_2958" model="l10n_py_city">
+        <field name="code">2958</field>
+        <field name="name">OVANDO</field>
+        <field name="country_id" ref="base.py"/>
+        <field name="district_id" ref="district_py_61"/>
+    </record>
+    <record id="city_py_2959" model="l10n_py_city">
+        <field name="code">2959</field>
+        <field name="name">PINDO TY</field>
+        <field name="country_id" ref="base.py"/>
+        <field name="district_id" ref="district_py_61"/>
+    </record>
+    <record id="city_py_2960" model="l10n_py_city">
+        <field name="code">2960</field>
+        <field name="name">PIQUETE CUE</field>
+        <field name="country_id" ref="base.py"/>
+        <field name="district_id" ref="district_py_61"/>
+    </record>
+    <record id="city_py_2961" model="l10n_py_city">
+        <field name="code">2961</field>
+        <field name="name">POTRERITO</field>
+        <field name="country_id" ref="base.py"/>
+        <field name="district_id" ref="district_py_61"/>
+    </record>
+    <record id="city_py_2962" model="l10n_py_city">
+        <field name="code">2962</field>
+        <field name="name">POTRERITO OCULTO</field>
+        <field name="country_id" ref="base.py"/>
+        <field name="district_id" ref="district_py_61"/>
+    </record>
+    <record id="city_py_2963" model="l10n_py_city">
+        <field name="code">2963</field>
+        <field name="name">POTRERO BALBINA</field>
+        <field name="country_id" ref="base.py"/>
+        <field name="district_id" ref="district_py_61"/>
+    </record>
+    <record id="city_py_2964" model="l10n_py_city">
+        <field name="code">2964</field>
+        <field name="name">POTRERO CERCADO</field>
+        <field name="country_id" ref="base.py"/>
+        <field name="district_id" ref="district_py_61"/>
+    </record>
+    <record id="city_py_2965" model="l10n_py_city">
+        <field name="code">2965</field>
+        <field name="name">POTRERO CUE</field>
+        <field name="country_id" ref="base.py"/>
+        <field name="district_id" ref="district_py_61"/>
+    </record>
+    <record id="city_py_2966" model="l10n_py_city">
+        <field name="code">2966</field>
+        <field name="name">POTRERO SAN ROQUE</field>
+        <field name="country_id" ref="base.py"/>
+        <field name="district_id" ref="district_py_61"/>
+    </record>
+    <record id="city_py_2967" model="l10n_py_city">
+        <field name="code">2967</field>
+        <field name="name">PUESTO CAAGUY RORY</field>
+        <field name="country_id" ref="base.py"/>
+        <field name="district_id" ref="district_py_61"/>
+    </record>
+    <record id="city_py_2968" model="l10n_py_city">
+        <field name="code">2968</field>
+        <field name="name">QUELITA</field>
+        <field name="country_id" ref="base.py"/>
+        <field name="district_id" ref="district_py_61"/>
+    </record>
+    <record id="city_py_2969" model="l10n_py_city">
+        <field name="code">2969</field>
+        <field name="name">SAN ANTONIO</field>
+        <field name="country_id" ref="base.py"/>
+        <field name="district_id" ref="district_py_61"/>
+    </record>
+    <record id="city_py_2970" model="l10n_py_city">
+        <field name="code">2970</field>
+        <field name="name">SAN AGUSTIN</field>
+        <field name="country_id" ref="base.py"/>
+        <field name="district_id" ref="district_py_61"/>
+    </record>
+    <record id="city_py_2971" model="l10n_py_city">
+        <field name="code">2971</field>
+        <field name="name">SAN MIGUEL</field>
+        <field name="country_id" ref="base.py"/>
+        <field name="district_id" ref="district_py_61"/>
+    </record>
+    <record id="city_py_2972" model="l10n_py_city">
+        <field name="code">2972</field>
+        <field name="name">SAN PEDRO</field>
+        <field name="country_id" ref="base.py"/>
+        <field name="district_id" ref="district_py_61"/>
+    </record>
+    <record id="city_py_2973" model="l10n_py_city">
+        <field name="code">2973</field>
+        <field name="name">SAN ROQUE</field>
+        <field name="country_id" ref="base.py"/>
+        <field name="district_id" ref="district_py_61"/>
+    </record>
+    <record id="city_py_2974" model="l10n_py_city">
+        <field name="code">2974</field>
+        <field name="name">SANTA LIBRADA</field>
+        <field name="country_id" ref="base.py"/>
+        <field name="district_id" ref="district_py_61"/>
+    </record>
+    <record id="city_py_2975" model="l10n_py_city">
+        <field name="code">2975</field>
+        <field name="name">SANTA MARIA</field>
+        <field name="country_id" ref="base.py"/>
+        <field name="district_id" ref="district_py_61"/>
+    </record>
+    <record id="city_py_2976" model="l10n_py_city">
+        <field name="code">2976</field>
+        <field name="name">SARO CARO</field>
+        <field name="country_id" ref="base.py"/>
+        <field name="district_id" ref="district_py_61"/>
+    </record>
+    <record id="city_py_2977" model="l10n_py_city">
+        <field name="code">2977</field>
+        <field name="name">SETECIENTOS</field>
+        <field name="country_id" ref="base.py"/>
+        <field name="district_id" ref="district_py_61"/>
+    </record>
+    <record id="city_py_2978" model="l10n_py_city">
+        <field name="code">2978</field>
+        <field name="name">TACURUTY ( CALLE )</field>
+        <field name="country_id" ref="base.py"/>
+        <field name="district_id" ref="district_py_61"/>
+    </record>
+    <record id="city_py_2979" model="l10n_py_city">
+        <field name="code">2979</field>
+        <field name="name">TAMBO ( TAMBOR ) ( TAMBORIL )</field>
+        <field name="country_id" ref="base.py"/>
+        <field name="district_id" ref="district_py_61"/>
+    </record>
+    <record id="city_py_2980" model="l10n_py_city">
+        <field name="code">2980</field>
+        <field name="name">TAVY</field>
+        <field name="country_id" ref="base.py"/>
+        <field name="district_id" ref="district_py_61"/>
+    </record>
+    <record id="city_py_2981" model="l10n_py_city">
+        <field name="code">2981</field>
+        <field name="name">TUYU PACU</field>
+        <field name="country_id" ref="base.py"/>
+        <field name="district_id" ref="district_py_61"/>
+    </record>
+    <record id="city_py_2982" model="l10n_py_city">
+        <field name="code">2982</field>
+        <field name="name">VOLCAN CUE</field>
+        <field name="country_id" ref="base.py"/>
+        <field name="district_id" ref="district_py_61"/>
+    </record>
+    <record id="city_py_2983" model="l10n_py_city">
+        <field name="code">2983</field>
+        <field name="name">YCUA CAAGUY</field>
+        <field name="country_id" ref="base.py"/>
+        <field name="district_id" ref="district_py_61"/>
+    </record>
+    <record id="city_py_2984" model="l10n_py_city">
+        <field name="code">2984</field>
+        <field name="name">YCUA PORA</field>
+        <field name="country_id" ref="base.py"/>
+        <field name="district_id" ref="district_py_61"/>
+    </record>
+    <record id="city_py_2985" model="l10n_py_city">
+        <field name="code">2985</field>
+        <field name="name">YPORA</field>
+        <field name="country_id" ref="base.py"/>
+        <field name="district_id" ref="district_py_61"/>
+    </record>
+    <record id="city_py_2986" model="l10n_py_city">
+        <field name="code">2986</field>
+        <field name="name">YUQUYTY</field>
+        <field name="country_id" ref="base.py"/>
+        <field name="district_id" ref="district_py_61"/>
+    </record>
+    <record id="city_py_2987" model="l10n_py_city">
+        <field name="code">2987</field>
+        <field name="name">ÑU RUGUA</field>
+        <field name="country_id" ref="base.py"/>
+        <field name="district_id" ref="district_py_61"/>
+    </record>
+    <record id="city_py_6346" model="l10n_py_city">
+        <field name="code">6346</field>
+        <field name="name">CALLE 4 BLAS GARAY</field>
+        <field name="country_id" ref="base.py"/>
+        <field name="district_id" ref="district_py_61"/>
+    </record>
+    <record id="city_py_6347" model="l10n_py_city">
+        <field name="code">6347</field>
+        <field name="name">DON BOSCO</field>
+        <field name="country_id" ref="base.py"/>
+        <field name="district_id" ref="district_py_61"/>
+    </record>
+    <record id="city_py_6348" model="l10n_py_city">
+        <field name="code">6348</field>
+        <field name="name">CALLE INFANTIL</field>
+        <field name="country_id" ref="base.py"/>
+        <field name="district_id" ref="district_py_61"/>
+    </record>
+    <record id="city_py_6349" model="l10n_py_city">
+        <field name="code">6349</field>
+        <field name="name">CALLE SANTO DOMINGO</field>
+        <field name="country_id" ref="base.py"/>
+        <field name="district_id" ref="district_py_61"/>
+    </record>
+    <record id="city_py_6350" model="l10n_py_city">
+        <field name="code">6350</field>
+        <field name="name">CAYGUA COCUE</field>
+        <field name="country_id" ref="base.py"/>
+        <field name="district_id" ref="district_py_61"/>
+    </record>
+    <record id="city_py_6351" model="l10n_py_city">
+        <field name="code">6351</field>
+        <field name="name">COSTA ALEGRE</field>
+        <field name="country_id" ref="base.py"/>
+        <field name="district_id" ref="district_py_61"/>
+    </record>
+    <record id="city_py_6352" model="l10n_py_city">
+        <field name="code">6352</field>
+        <field name="name">ESCALADA CUE</field>
+        <field name="country_id" ref="base.py"/>
+        <field name="district_id" ref="district_py_61"/>
+    </record>
+    <record id="city_py_6353" model="l10n_py_city">
+        <field name="code">6353</field>
+        <field name="name">ESTANCIA LA QUERENCIA</field>
+        <field name="country_id" ref="base.py"/>
+        <field name="district_id" ref="district_py_61"/>
+    </record>
+    <record id="city_py_6354" model="l10n_py_city">
+        <field name="code">6354</field>
+        <field name="name">ISLA PUCU</field>
+        <field name="country_id" ref="base.py"/>
+        <field name="district_id" ref="district_py_61"/>
+    </record>
+    <record id="city_py_6355" model="l10n_py_city">
+        <field name="code">6355</field>
+        <field name="name">MBURURU PY</field>
+        <field name="country_id" ref="base.py"/>
+        <field name="district_id" ref="district_py_61"/>
+    </record>
+    <record id="city_py_6356" model="l10n_py_city">
+        <field name="code">6356</field>
+        <field name="name">PLACIDO</field>
+        <field name="country_id" ref="base.py"/>
+        <field name="district_id" ref="district_py_61"/>
+    </record>
+</odoo>

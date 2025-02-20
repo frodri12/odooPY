@@ -1,0 +1,4 @@
+id,name,model_id:id,group_id:id,perm_read,perm_write,perm_create,perm_unlink
+l10n_py.access_l10n_py_district,access_l10n_py_district,l10n_py.model_l10n_py_district,base.group_user,1,1,1,1
+l10n_py.access_l10n_py_city,access_l10n_py_city,l10n_py.model_l10n_py_city,base.group_user,1,1,1,1
+l10n_py.access_l10n_py_set_responsibility_type,access_l10n_py_set_responsibility_type,l10n_py.model_l10n_py_set_responsibility_type,base.group_user,1,1,1,1

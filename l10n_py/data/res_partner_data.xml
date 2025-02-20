@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<odoo>
+  <data>
+    <record model='res.partner' id='base.partner_admin'>
+      <field name = "tz">America/Asuncion</field>
+    </record>
+  </data>
+</odoo>

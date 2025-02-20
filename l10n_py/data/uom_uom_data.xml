@@ -1,0 +1,280 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<odoo>
+    <!-- Units -->
+    <record model='uom.uom' id='uom.product_uom_unit'>
+        <field name='l10n_py_dnit_code'>77</field>
+        <field name='l10n_py_dnit_name'>UNI</field>
+    </record>
+
+    <record model='uom.uom' id='uom.product_uom_dozen'>
+        <field name='active' eval='False'/>
+    </record>
+
+    <!-- WORKING TIME -->
+    <record model='uom.uom' id='uom.product_uom_hour'>
+        <field name='l10n_py_dnit_code'>100</field>
+        <field name='l10n_py_dnit_name'>Hs</field>
+    </record>
+
+    <record model='uom.uom' id='uom.product_uom_day'>
+        <field name='l10n_py_dnit_code'>102</field>
+        <field name='l10n_py_dnit_name'>Di</field>
+    </record>
+
+    <record id="product_uom_seconds" model="uom.uom">
+        <field name="name">Seconds</field>
+        <field name="category_id" ref="uom.uom_categ_wtime"/>
+        <field name="factor" eval="1.0"/>
+        <field name="uom_type">smaller</field>
+        <field name='l10n_py_dnit_code'>666</field>
+        <field name='l10n_py_dnit_name'>Se</field>
+    </record>
+
+    <record id="product_uom_minuts" model="uom.uom">
+        <field name="name">Minuts</field>
+        <field name="category_id" ref="uom.uom_categ_wtime"/>
+        <field name="factor" eval="1.0"/>
+        <field name="uom_type">smaller</field>
+        <field name='l10n_py_dnit_code'>101</field>
+        <field name='l10n_py_dnit_name'>Mi</field>
+    </record>
+
+    <record id="product_uom_months" model="uom.uom">
+        <field name="name">Months</field>
+        <field name="category_id" ref="uom.uom_categ_wtime"/>
+        <field name="factor" eval="1.0"/>
+        <field name="uom_type">bigger</field>
+        <field name='l10n_py_dnit_code'>98</field>
+        <field name='l10n_py_dnit_name'>ME</field>
+    </record>
+
+    <record id="product_uom_years" model="uom.uom">
+        <field name="name">Years</field>
+        <field name="category_id" ref="uom.uom_categ_wtime"/>
+        <field name="factor" eval="1.0"/>
+        <field name="uom_type">bigger</field>
+        <field name='l10n_py_dnit_code'>97</field>
+        <field name='l10n_py_dnit_name'>AA</field>
+    </record>
+
+    <!-- LENGTH -->
+    <record model='uom.uom' id='uom.product_uom_meter'>
+        <field name='l10n_py_dnit_code'>87</field>
+        <field name='l10n_py_dnit_name'>m</field>
+    </record>
+
+    <record model='uom.uom' id='uom.product_uom_millimeter'>
+        <field name='l10n_py_dnit_code'>95</field>
+        <field name='l10n_py_dnit_name'>MM</field>
+    </record>
+
+    <record model='uom.uom' id='uom.product_uom_km'>
+        <field name='l10n_py_dnit_code'>625</field>
+        <field name='l10n_py_dnit_name'>Km</field>
+    </record>
+
+    <record model='uom.uom' id='uom.product_uom_cm'>
+        <field name='l10n_py_dnit_code'>91</field>
+        <field name='l10n_py_dnit_name'>CM</field>
+    </record>
+
+    <!-- SURFACE -->
+    <record model='uom.uom' id='uom.uom_square_meter'>
+        <field name='l10n_py_dnit_code'>109</field>
+        <field name='l10n_py_dnit_name'>M2</field>
+    </record>
+
+    <!-- VOLUME -->
+    <record model='uom.uom' id='uom.product_uom_litre'>
+        <field name='l10n_py_dnit_code'>89</field>
+        <field name='l10n_py_dnit_name'>LT</field>
+    </record>
+
+    <record model='uom.uom' id='uom.product_uom_cubic_meter'>
+        <field name='l10n_py_dnit_code'>110</field>
+        <field name='l10n_py_dnit_name'>M3</field>
+    </record>
+    
+    <record model='uom.uom' id='product_uom_cubic_cm'>
+        <field name="name">cm³</field>
+        <field name="category_id" ref="uom.product_uom_categ_vol"/>
+        <field name="factor" eval="1000"/>
+        <field name="uom_type">bigger</field>
+        <field name='l10n_py_dnit_code'>93</field>
+        <field name='l10n_py_dnit_name'>CM3</field>
+    </record>
+
+    <!-- WEIGHT -->
+    <record model='uom.uom' id='uom.product_uom_kgm'>
+        <field name='l10n_py_dnit_code'>83</field>
+        <field name='l10n_py_dnit_name'>kg</field>
+    </record>
+
+    <record model='uom.uom' id='uom.product_uom_gram'>
+        <field name='l10n_py_dnit_code'>86</field>
+        <field name='l10n_py_dnit_name'>g</field>
+    </record>
+
+    <record model='uom.uom' id='uom.product_uom_ton'>
+        <field name='l10n_py_dnit_code'>99</field>
+        <field name='l10n_py_dnit_name'>TN</field>
+    </record>
+
+    <!--Americanization of units of measure-->
+    <!-- WEIGHT -->
+    <record model='uom.uom' id='uom.product_uom_lb'>
+        <field name='active' eval='False'/>
+    </record>
+    <record model='uom.uom' id='uom.product_uom_oz'>
+        <field name='active' eval='False'/>
+    </record>
+
+    <!-- LENGTH -->
+    <record model='uom.uom' id='uom.product_uom_inch'>
+        <field name='l10n_py_dnit_code'>94</field>
+        <field name='l10n_py_dnit_name'>PUL</field>
+    </record>
+
+    <record model='uom.uom' id='uom.product_uom_foot'>
+        <field name='active' eval='False'/>
+    </record>
+
+    <record model='uom.uom' id='uom.product_uom_yard'>
+        <field name='l10n_py_dnit_code'>103</field>
+        <field name='l10n_py_dnit_name'>Ya</field>
+    </record>
+
+    <record model='uom.uom' id='uom.product_uom_mile'>
+        <field name='active' eval='False'/>
+    </record>
+
+    <!-- SURFACE -->
+    <record model='uom.uom' id='uom.uom_square_foot'>
+        <field name='active' eval='False'/>
+    </record>
+
+    <!-- VOLUME -->
+    <record model='uom.uom' id='uom.product_uom_floz'>
+        <field name='active' eval='False'/>
+    </record>
+    <record model='uom.uom' id='uom.product_uom_qt'>
+        <field name='active' eval='False'/>
+    </record>
+    <record model='uom.uom' id='uom.product_uom_gal'>
+        <field name='active' eval='False'/>
+    </record>
+    <record model='uom.uom' id='uom.product_uom_cubic_inch'>
+        <field name='active' eval='False'/>
+    </record>
+    <record model='uom.uom' id='uom.product_uom_cubic_foot'>
+        <field name='active' eval='False'/>
+    </record>
+
+    <!-- OTHERS -->
+    <record id="product_uom_m_lineal" model="uom.uom">
+        <field name="name">Metro Lineal</field>
+        <field name="category_id" ref="uom.uom_categ_length"/>
+        <field name="factor" eval="1.0"/>
+        <field name="uom_type">bigger</field>
+        <field name='l10n_py_dnit_code'>660</field>
+        <field name='l10n_py_dnit_name'>ml</field>
+    </record>
+    <record id="product_uom_umg" model="uom.uom">
+        <field name="name">Unidad Medida Global</field>
+        <field name="category_id" ref="uom.product_uom_categ_unit"/>
+        <field name="factor" eval="1.0"/>
+        <field name="uom_type">bigger</field>
+        <field name='l10n_py_dnit_code'>885</field>
+        <field name='l10n_py_dnit_name'>GL</field>
+    </record>
+    <record id="product_uom_umg" model="uom.uom">
+        <field name="name">por Milaje</field>
+        <field name="category_id" ref="uom.uom_categ_length"/>
+        <field name="factor" eval="1.0"/>
+        <field name="uom_type">bigger</field>
+        <field name='l10n_py_dnit_code'>891</field>
+        <field name='l10n_py_dnit_name'>pm</field>
+    </record>
+    <record id="product_uom_ha" model="uom.uom">
+        <field name="name">Hectáreas</field>
+        <field name="category_id" ref="uom.uom_categ_surface"/>
+        <field name="factor" eval="1.0"/>
+        <field name="uom_type">bigger</field>
+        <field name='l10n_py_dnit_code'>869</field>
+        <field name='l10n_py_dnit_name'>ha</field>
+    </record>
+    <record id="product_uom_racion" model="uom.uom">
+        <field name="name">Ración</field>
+        <field name="category_id" ref="uom.product_uom_categ_unit"/>
+        <field name="factor" eval="1.0"/>
+        <field name="uom_type">bigger</field>
+        <field name='l10n_py_dnit_code'>569</field>
+        <field name='l10n_py_dnit_name'>ración</field>
+    </record>
+
+    <record id="product_uom_ui" model="uom.uom">
+        <field name="name">Unidad Internacional</field>
+        <field name="category_id" ref="uom.product_uom_categ_unit"/>
+        <field name="factor" eval="1.0"/>
+        <field name="uom_type">bigger</field>
+        <field name='l10n_py_dnit_code'>2329</field>
+        <field name='l10n_py_dnit_name'>UI</field>
+    </record>
+    <record id="product_uom_cpm" model="uom.uom">
+        <field name="name">Costo por Mil</field>
+        <field name="category_id" ref="uom.product_uom_categ_unit"/>
+        <field name="factor" eval="1.0"/>
+        <field name="uom_type">bigger</field>
+        <field name='l10n_py_dnit_code'>2366</field>
+        <field name='l10n_py_dnit_name'>CPM</field>
+    </record>
+
+    <record model='uom.uom' id='product_uom_milil'>
+        <field name="name">mililitros</field>
+        <field name="category_id" ref="uom.product_uom_categ_vol"/>
+        <field name="factor">1</field>
+        <field name="uom_type">smaller</field>
+        <field name='l10n_py_dnit_code'>88</field>
+        <field name='l10n_py_dnit_name'>ML</field>
+    </record>
+
+    <record model='uom.uom' id='product_uom_milig'>
+        <field name="name">miligramos</field>
+        <field name="category_id" ref="uom.product_uom_categ_kgm"/>
+        <field name="factor">1</field>
+        <field name="uom_type">smaller</field>
+        <field name='l10n_py_dnit_code'>90</field>
+        <field name='l10n_py_dnit_name'>MG</field>
+    </record>
+
+    <record model='uom.uom' id='product_uom_square_cm'>
+        <field name="name">cm²</field>
+        <field name="category_id" ref="uom.product_uom_categ_vol"/>
+        <field name="factor">1</field>
+        <field name="uom_type">smaller</field>
+        <field name='l10n_py_dnit_code'>92</field>
+        <field name='l10n_py_dnit_name'>CM2</field>
+    </record>
+
+    <record model='uom.uom' id='product_uom_square_mm'>
+        <field name="name">mm²</field>
+        <field name="category_id" ref="uom.product_uom_categ_vol"/>
+        <field name="factor">1</field>
+        <field name="uom_type">smaller</field>
+        <field name='l10n_py_dnit_code'>96</field>
+        <field name='l10n_py_dnit_name'>MM2</field>
+    </record>
+
+</odoo>
+
+<!--
+
+SELECT * FROM public.uom_uom
+ORDER BY id ASC 
+
+Faltan
+108 MT Metros
+79 kg/m² Kilogramos s/ metro
+104 DET Determinación
+
+-->
