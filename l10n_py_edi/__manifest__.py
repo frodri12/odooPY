@@ -15,6 +15,5 @@
     'demo': [
     ],
     'installable': True,
-    'auto_install': ['l10n_py'],
     'license': 'LGPL-3',
 }

@@ -12,9 +12,9 @@
     'depends': [
         'l10n_latam_invoice_document',
         'l10n_latam_base',
+        'account_tax_python',
         'account',
     ],
-    'auto_install': ['account'],
     'data': [
         'security/ir.model.access.csv',
         'data/l10n_latam_identification_type_data.xml',
