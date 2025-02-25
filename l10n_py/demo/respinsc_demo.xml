@@ -5,7 +5,7 @@
         <field name="name">(PY) Sociedad Paraguaya</field>
         <field name="l10n_py_set_responsibility_type_id" ref="res_CONTPJ"/>
         <field name="l10n_latam_identification_type_id" ref="l10n_py.it_ruc"/>
-        <field name="vat">800123456-0</field>
+        <field name="vat">12345678-0</field>
         <field name="street">Calle Falsa</field>
         <field name="l10n_py_streetnmbr">123</field>
         <field name="city">ASUNCION</field>
