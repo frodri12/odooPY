@@ -31,7 +31,7 @@ class AccountChartTemplate(models.AbstractModel):
         #}
         return {
             self.env.company.id: {
-               'account_fiscal_country_id': 'base.py',
+                'account_fiscal_country_id': 'base.py',
                 'bank_account_code_prefix': '1.1.01.12.',
                 'cash_account_code_prefix': '1.1.01.04.',
                 'transfer_account_code_prefix': '6.1.01.01.',
