@@ -4,7 +4,7 @@
     'website': "https://www.avatar.com.py",
     'icon': '/account/static/description/l10n.png',
     'countries': ['py'],
-    'version': '0.1',
+    'version': '0.2',
     'description': """
 """,
     'author': "Avatar Informaticca S.R.L.",
