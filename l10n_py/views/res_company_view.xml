@@ -12,7 +12,7 @@
                     <div style="width:100%;">
                         <div class="o_address_street" style="width:70%;display:inline-block;">
                             <field name="street" placeholder="Street..." class="o_address_street"/>
-                        </div>   
+                        </div>
                         <div class="o_address_zip" style="width:25%;float:right;display:inline-block;text-align:right;">
                             <field name="l10n_py_streetnmbr" placeholder="Number" class="oe_rightalign" />
                         </div>
@@ -29,9 +29,12 @@
 
 
                     <field name="country_id" placeholder="Country" class="o_address_country" options="{&quot;no_open&quot;: True, &quot;no_create&quot;: True}" />
-
-
                 </xpath>
+
+                <!-- ESTABLECIMIENTO -->
+                <field name="currency_id" position="after">
+                    <field name="l10n_py_establecimiento" invisible="country_code != 'PY'"/>
+                </field>
             </field>
         </record>
     </data>

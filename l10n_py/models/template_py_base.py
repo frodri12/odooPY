@@ -57,9 +57,10 @@ class AccountChartTemplate(models.AbstractModel):
             'sale': {
                 "name": "Ventas Preimpreso",
                 "code": "0001",
+                "l10n_latam_use_documents": True,
                 #"l10n_ar_afip_pos_number": 1,
                 #"l10n_ar_afip_pos_partner_id": self.env.company.partner_id.id,
                 #"l10n_ar_afip_pos_system": 'II_IM',
-                "refund_sequence": False,
+                "refund_sequence": True,
             },
         }

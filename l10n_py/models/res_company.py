@@ -36,6 +36,8 @@ class Company(models.Model):
         ('4','Gravado parcial')
     ], default = '1', string = 'Tipo de Afectacion')
     
+    l10n_py_establecimiento = fields.Integer("Establecimiento", default = 1)
+    
     def _get_company_address_field_names(self):
         """ Return a list of fields coming from the address partner to match
         on company address fields. Fields are labeled same on both models. """
