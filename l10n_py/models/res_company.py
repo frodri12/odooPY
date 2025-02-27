@@ -18,7 +18,8 @@ class Company(models.Model):
 
     l10n_py_set_responsibility_type_id = fields.Many2one(
         domain="[('code', 'in', [1, 2, 3, 4])]", 
-        related='partner_id.l10n_py_set_responsibility_type_id', readonly=False)
+        related='partner_id.l10n_py_set_responsibility_type_id', readonly=False,
+        string = "Responsabilidad")
 
     l10n_py_regulation_type = fields.Selection([
         ('0','Sin Definir'),('1','Régimen de Turismo'),

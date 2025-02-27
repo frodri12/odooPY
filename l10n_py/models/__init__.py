@@ -10,7 +10,7 @@ from . import account_journal
 from . import account_tax_group
 from . import account_fiscal_position
 from . import account_root
-#from . import l10n_latam_document_type
+from . import l10n_latam_document_type
 from . import res_partner
 from . import res_country
 from . import res_users
